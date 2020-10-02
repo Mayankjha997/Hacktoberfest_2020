@@ -1,9 +1,9 @@
 <p align="center">
-<img src="img/wallpapersden.com_star-wars-jedi-fallen-order-poster-2019_2560x1080" height="400">
+<img src="" height="400">
 
-<h1 align="center">[Mayank Jha]</h1>
+<h1 align="center">Mayank Jha</h1>
 
-<h2 align="center">[Student]</h2>
+<h2 align="center">Student</h2>
 
 <p align='center'>
   <a href="mayankjha997@gmail.com"><img height="50" src="img/gmail.png?raw=true"></a>&nbsp;&nbsp;

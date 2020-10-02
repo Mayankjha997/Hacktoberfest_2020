@@ -1,5 +1,5 @@
 <p align="center">
-<img src="mayank" height="400">
+<img src="https://user-images.githubusercontent.com/57581165/94893961-016dfe00-04a6-11eb-9d9f-a4e4c48c4246.jpeg" height="400">
 
 <h1 align="center">Mayank Jha</h1>
 
